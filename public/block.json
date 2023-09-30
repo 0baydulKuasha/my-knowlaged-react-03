@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co/qr6MVgW/pexels-dana-tentis-370799.jpg",
+        "title": "The Mysteries of Ancient Ruins",
+        "author": "Eleanor Davis",
+        "author_image": "https://i.ibb.co/CtSx3h4/boy1.png",
+        "posted_date": "October 12, 2023",
+        "reading_time": "15 minutes",
+        "hashtags": ["#Archaeology", "#History", "#Exploration"]
+      },
+      {
+        "id": 2,
+        "cover": "https://i.ibb.co/cvBLhhj/pexels-viresh-studio-1444442.jpg",
+        "title": "A Culinary Journey Through Italy",
+        "author": "Marco Rossi",
+        "author_image": "https://i.ibb.co/WWbfk6S/boy2.jpg",
+        "posted_date": "September 28, 2023",
+        "reading_time": "12 minutes",
+        "hashtags": ["#Food", "#Travel", "#Cuisine"]
+      },
+      {
+        "id": 3,
+        "cover": "https://i.ibb.co/3v7DJyc/pexels-pixabay-247671.jpg",
+        "title": "The Future of Artificial Intelligence",
+        "author": "Emily Johnson",
+        "author_image": "https://i.ibb.co/CtSx3h4/boy1.png",
+        "posted_date": "November 5, 2023",
+        "reading_time": "18 minutes",
+        "hashtags": ["#AI", "#Technology", "#Innovation"]
+      },
+      {
+        "id": 4,
+        "cover": "https://i.ibb.co/nfvYHnr/pexels-alexander-grey-1191710.jpg",
+        "title": "Hiking the Majestic Mountain Trails",
+        "author": "David Wilson",
+        "author_image": "https://i.ibb.co/WWbfk6S/boy2.jpg",
+        "posted_date": "August 20, 2023",
+        "reading_time": "14 minutes",
+        "hashtags": ["#Hiking", "#Adventure", "#Nature"]
+      },
+      {
+        "id": 5,
+        "cover": "https://i.ibb.co/cvBLhhj/pexels-viresh-studio-1444442.jpg",
+        "title": "Unveiling the Secrets of Deep Space",
+        "author": "Astrid Lee",
+        "author_image": "https://i.ibb.co/tsmrBJ7/profile.png",
+        "posted_date": "July 3, 2023",
+        "reading_time": "10 minutes",
+        "hashtags": ["#Space", "#Astronomy", "#Discovery"]
+      },
+      {
+        "id": 6,
+        "cover": "https://i.ibb.co/V2nXWyF/1.jpg",
+        "title": "The Art of Mindful Living",
+        "author": "Olivia Green",
+        "author_image": "https://i.ibb.co/vkxVyxV/girl2.jpg",
+        "posted_date": "June 15, 2023",
+        "reading_time": "8 minutes",
+        "hashtags": ["#Mindfulness", "#Wellbeing", "#Lifestyle"]
+      },
+      {
+        "id": 7,
+        "cover": "https://i.ibb.co/pj0HnGs/2.png",
+        "title": "Wildlife Safari in the Serengeti",
+        "author": "Thomas Mitchell",
+        "author_image": "https://i.ibb.co/51z981m/girl1.jpg",
+        "posted_date": "April 7, 2023",
+        "reading_time": "20 minutes",
+        "hashtags": ["#Safari", "#Wildlife", "#Adventure"]
+      },
+      {
+        "id": 8,
+        "cover": "https://i.ibb.co/7WCg6WT/3.png",
+        "title": "Mastering the Art of Guitar Playing",
+        "author": "Lucas Anderson",
+        "author_image": "https://i.ibb.co/vkxVyxV/girl2.jpg",
+        "posted_date": "May 9, 2023",
+        "reading_time": "13 minutes",
+        "hashtags": ["#Music", "#Guitar", "#Skills"]
+      },
+      {
+        "id": 9,
+        "cover": "https://i.ibb.co/kmDNv6P/4.jpg",
+        "title": "The World of Underwater Photography",
+        "author": "Isabella Clark",
+        "author_image": "https://example.com/author9.jpg",
+        "posted_date": "January 14, 2023",
+        "reading_time": "17 minutes",
+        "hashtags": ["#Photography", "#Underwater", "#Creativity"]
+      },
+      {
+        "id": 10,
+        "cover": "https://i.ibb.co/LvD4Ynk/pexels-pixabay-235985.jpg",
+        "title": "Healthy Habits for a Long Life",
+        "author": "William Smith",
+        "author_image": "https://i.ibb.co/tsmrBJ7/profile.png",
+        "posted_date": "March 2, 2023",
+        "reading_time": "9 minutes",
+        "hashtags": ["#Health", "#Wellness", "#Lifestyle"]
+      }
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+]
